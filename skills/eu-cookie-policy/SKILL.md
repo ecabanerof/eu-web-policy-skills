@@ -6,6 +6,17 @@ description: Draft or audit an EU cookie policy, cookie banner, or tracker inven
 # EU cookie policy
 
 Read [ePrivacy, consent, and national sources](references/legal-basis.md) for the selected markets.
+For a draft or rewrite, assemble the [cookie notice, banner and preferences template](assets/cookies-template.md).
+
+## Start with the site
+
+Reuse facts already provided, including facts gathered for the terms or privacy documents.
+For a request covering multiple policies, coordinate one group of up to five initial questions across the documents.
+Ask a short group of questions about the countries served, what is embedded on the site, which tools measure visits or ads, and how users currently choose what to allow.
+Accept "I don't know" and ask for a redacted inventory, a list of tags, or consent-state evidence only where it would resolve a material gap.
+For a review, begin with the supplied notice and controls.
+
+## Draft or review
 
 1. Establish applicable countries, site routes and features, the operator, and any consent manager.
    Collect redacted inventory evidence from the source, tag-manager configuration, vendor documentation, and user-supplied browser evidence as available.
@@ -28,7 +39,8 @@ Read [ePrivacy, consent, and national sources](references/legal-basis.md) for th
    Check rejection visibility, granularity, and ease of withdrawal for the relevant markets.
    When runtime evidence is unavailable, record the missing observation and provide a test plan.
 5. Return the policy or text review, observed and unresolved inventory rows, separate implementation checks, and official sources with the date checked.
-   Use the requested language.
+   Use the user's language unless they request another.
    Mark unresolved non-exempt behavior or a material incomplete inventory as **hold for verification**.
-   Claim that a banner is unnecessary only when the evidence supports exclusively exempt operations across the relevant routes.
+   Keep unknown items and missing runtime checks outside the proposed public text.
+   Claim that a banner is unnecessary only when evidence across the relevant routes shows no covered operations or only exempt operations.
    Approval or publication is a separate action.

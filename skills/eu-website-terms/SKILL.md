@@ -6,6 +6,18 @@ description: Draft or audit website terms of use, terms and conditions, and EU-f
 # EU website terms
 
 Read [EU and national sources](references/legal-basis.md) for the selected markets and business model.
+For a draft or rewrite, assemble the relevant sections from the [terms template](assets/terms-template.md).
+
+## Start with the site
+
+Reuse facts already provided, including facts gathered for the privacy or cookie documents.
+For a request covering multiple policies, coordinate one group of up to five initial questions across the documents.
+Ask only about missing details that can materially change the result.
+For an initial draft, group questions about who runs the site and from where, where its users are, what they can do, and who they buy from if anyone.
+Use everyday words and accept uncertainty.
+For a review, start with the supplied text and flag missing facts alongside the relevant clauses.
+
+## Draft or review
 
 1. Establish the legal operator, establishment, target countries, languages, customer type, and actual features.
    Classify the site as informational, lead generation, transactional, or a platform, allowing combinations.
@@ -30,6 +42,8 @@ Read [EU and national sources](references/legal-basis.md) for the selected marke
    If a withdrawal right applies, verify the deadline and start event, form, operational process, and any applicable online withdrawal function.
    Verify the conditions of any exception against the real product and checkout flow.
 6. Return the proposed copy or a clause-level review, a separate implementation checklist, official sources, and unresolved facts.
-   Use the requested language and mark any draft with material unresolved facts or national rules as **hold for verification**.
-   Keep placeholders out of publication-ready text.
+   Use the user's language unless they request another.
+   Mark any draft with material unresolved facts or national rules as **hold for verification**.
+   Where essential details are missing, provide usable sections supported by known facts and name the omissions outside the draft.
+   Keep template placeholders and research notes out of the proposed public text.
    Approval or publication is a separate action.

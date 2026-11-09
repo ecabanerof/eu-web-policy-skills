@@ -15,21 +15,45 @@ The coverage is limited to EU rules and their relevant national implementation.
 
 ## Install and use
 
-Copy a complete skill folder from `skills/` into your agent's skills directory, including its `references/` folder.
+Copy a complete skill folder from `skills/` into your agent's skills directory, including its `assets/` and `references/` folders.
 For a user-level Codex installation, use `~/.codex/skills/`.
-The repository contains Markdown instructions and needs no runtime dependencies.
+The repository contains Markdown instructions and original drafting templates.
+It needs no runtime dependencies.
 
-Start by giving the agent the operator's establishment, target markets, audience, actual features, and existing policies.
-Provide redacted inventories or configuration evidence when available.
-Ask for an audit first when you are unsure what the site does in practice.
+## Start with what you know
 
-> Use eu-cookie-policy to review our Spanish portfolio site.
-> We have a contact link, a video embed, and a consent manager.
-> Review our current notice and consent configuration, then separate proposed copy changes from implementation checks.
-> Reply in Spanish.
+Describe what your site does, where you operate and who you serve, using everyday language.
+You can start before launch or without an existing policy.
+The agent asks a short set of questions about material gaps and can prepare a working draft while you confirm the remaining facts.
+You can say “I don't know” about a provider, cookie or checkout setting.
 
-When reviewing all three documents, classify the business with `eu-website-terms` first, then reconcile the data flows and tracker inventory with `eu-privacy-notice` and `eu-cookie-policy`.
+> Help me draft the legal pages for my site.
+> I run a portfolio in Spain, show work samples and receive inquiries by email.
+> I don't sell through the site and I'm unsure whether the video embeds use tracking.
+> Ask me only for the missing facts that matter and write the drafts in Spanish.
+
+| What your site does | What the skills focus on |
+| --- | --- |
+| Shows information or a portfolio | Site operator, permitted use, actual data collection and active embeds |
+| Takes inquiries, bookings or registrations | The point where data is collected and whether the user is making an inquiry or entering a contract |
+| Sells goods, services, downloads or subscriptions | Who sells, what users pay, how the contract ends and which consumer rules apply |
+| Sends users to an external seller or hosts a checkout | Who contracts with the user and who controls the payment, confirmation, data and cookie flows |
+
+Provide redacted policies, inventories or configuration evidence when available.
+If you already have pages, ask for a review to see what to keep, change or verify.
+
+For all three documents, share the site facts once and expect one group of up to five initial questions.
+Start with `eu-website-terms` for the business model, then reconcile the data and tracker inventory with `eu-privacy-notice` and `eu-cookie-policy`.
 Run each skill independently when you need one document.
+
+## Drafting templates
+
+- [Terms and conditions](skills/eu-website-terms/assets/terms-template.md)
+- [Privacy policy and short notices](skills/eu-privacy-notice/assets/privacy-template.md)
+- [Cookie policy, banner and preferences](skills/eu-cookie-policy/assets/cookies-template.md)
+
+The templates use conditional sections and fictional or generic examples.
+The skills assemble only the sections that fit your site and keep research notes and unresolved facts separate from the proposed public text.
 
 ## What the skills return
 
@@ -43,9 +67,9 @@ Approval of a draft depends on the operator's verified practices, the applicable
 
 ## En español
 
-Indica desde dónde opera el titular, a qué países se dirige, qué funciones están activas y qué documentos quieres revisar.
-Puedes pedir una revisión, un borrador, o ambos.
-Los datos del sitio y las dudas de publicación quedan separados de las referencias legales y del texto propuesto.
+Puedes empezar con «Tengo una web de reservas, opero desde España y cobro a través de otra plataforma».
+Indica qué documentos necesitas y qué sabes del sitio.
+Si falta un dato que pueda cambiar el texto, la skill te pregunta por él y separa lo pendiente del borrador.
 
 ## Maintain the references
 

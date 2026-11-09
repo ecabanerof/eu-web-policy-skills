@@ -6,6 +6,18 @@ description: Draft or audit a GDPR website privacy policy or privacy notice, inc
 # EU privacy notice
 
 Read [GDPR and national sources](references/legal-basis.md) before deciding what the notice needs.
+For a draft or rewrite, use the [privacy policy and short notice template](assets/privacy-template.md).
+
+## Start with the site
+
+Reuse facts already provided, including facts gathered for the terms or cookie documents.
+For a request covering multiple policies, coordinate one group of up to five initial questions across the documents.
+Ask a short group of questions about who runs the site, where it serves users, what information comes in, what it is used for and which services handle it.
+Use concrete prompts such as "Where do messages from the contact form go?"
+Ask about retention or transfer safeguards for the flows that actually exist.
+For a review, begin with the supplied notice and separate facts to verify from text edits.
+
+## Draft or review
 
 1. Identify the actual controller, establishment, target markets, audience, contacts, and any representative, DPO, or joint controller.
    Verify territorial scope and the national rules triggered by the facts.
@@ -25,6 +37,8 @@ Read [GDPR and national sources](references/legal-basis.md) before deciding what
    Record the provision, applicability date, and date checked.
    Flag missing facts and unresolved legal questions rather than inventing a basis, vendor, retention period, transfer mechanism, or authority.
 6. Return the notice or text review, the processing map, an implementation checklist, and sources.
-   Use the requested language and mark material unknowns as **hold for verification**.
-   Keep the public notice limited to substantiated statements.
+   Use the user's language unless they request another.
+   Mark material unknowns as **hold for verification**.
+   Draft substantiated sections and list gaps outside the proposed public notice.
+   Include short collection notices where the corresponding points of collection exist.
    Approval or publication is a separate action.
