@@ -74,3 +74,18 @@ Example for a verified photography enquiry.
 
 > We use the details you send through the enquiry form to respond and discuss the work you are requesting.
 > {{Verified legal grounds, recipients and retention for this purpose}}.
+
+## Restaurants and food sales
+
+**Reservations and orders.** Map contact details, reservation timing, party size, order contents, delivery address, payment and support by purpose.
+Identify the restaurant or seller and the actual roles of booking, ordering, payment and delivery providers.
+Distinguish a direct link to a third party from data the operator shares or receives.
+
+**Dietary requests.** Verify whether allergy or dietary notes reveal health, religious beliefs or other information that triggers special rules.
+Check the information the form needs, the applicable legal conditions, who receives it and how long it is kept.
+Where the GDPR applies and the notes contain special-category data, verify an Article 6 legal basis and an Article 9 condition and minimise the details collected.
+Use a short notice where needed and keep personal examples out of evidence and drafts.
+
+**Other uses.** Separate booking confirmations, order updates, feedback and marketing.
+Verify retention for reservations, orders and any dietary notes independently.
+Add the e-commerce profile for online purchases and confirm the fields and recipients for the actual checkout.

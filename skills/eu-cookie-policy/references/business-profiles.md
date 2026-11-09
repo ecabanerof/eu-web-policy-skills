@@ -65,3 +65,15 @@ Example for a verified click-to-load player.
 
 > The {{provider}} player loads when you select {{actual control}}.
 > {{Verified description of the operation, its purpose and how to change your choice}}.
+
+## Restaurants and food sales
+
+**Menus and bookings.** Inspect menus, maps, reservation widgets, restaurant platform links and any loyalty or feedback tools.
+Record which resources load automatically, which load after user action and which routes take the visitor to another provider.
+
+**Orders and delivery.** For ordering or paid booking, add the e-commerce profile and check carts, checkout and confirmation across domains.
+Separate operations needed to complete the requested service from optional measurement, advertising or loyalty features.
+Verify the operator, provider, purpose, lifetime and choice mechanism for each operation under the local rules.
+
+**Evidence.** Check first visit and the relevant choice states, including activation of a booking widget and return from a hosted checkout where applicable.
+Use redacted local or staging evidence and keep reservation notes, dietary details and payment data out of shared traces.

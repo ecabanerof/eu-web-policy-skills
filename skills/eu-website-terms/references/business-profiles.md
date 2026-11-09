@@ -74,3 +74,23 @@ Example for a verified enquiry-only form.
 
 > Use this form to ask about availability and tell us about your project.
 > A booking is confirmed through {{verified confirmation process}}.
+
+## Restaurants and food sales
+
+Classify the actual activity as menu and contact information, reservations, catering, takeaway, delivery or packaged food sales.
+Identify the operator and the party that contracts with the customer on each website, app or hosted checkout.
+
+**Reservations and events.** Verify when the booking becomes binding and where the user sees deposits, cancellation deadlines and any no-show charge.
+Check the applicable consumer rules against the actual booking or catering arrangement.
+
+**Food information.** Identify the products and verify whether they are prepacked, non-prepacked or subject to another relevant category.
+Check mandatory information, including allergens, at the point it is required in the menu, product page or order flow.
+For EU markets, start with [Regulation 1169/2011, Articles 9, 14 and 44](https://eur-lex.europa.eu/eli/reg/2011/1169/oj) and the applicable national rules.
+Confirm what must be available before purchase and at delivery.
+For prepacked distance sales, distinguish the durability or use-by date from the particulars required before purchase under Article 14.
+Use verified product and kitchen information for ingredients, allergens and storage instructions.
+
+**Orders and problems.** Apply the e-commerce profile to sales the operator offers, including through a hosted checkout.
+Verify the order control, price and charges, service area, pickup or delivery, any temperature or storage commitments, substitutions and complaint process.
+Assess withdrawal exceptions for the specific goods or service where applicable, including rapidly perishable goods or catering on a specified date.
+Explain the separate remedies for late delivery, incorrect, damaged or non-conforming orders under the applicable rules.

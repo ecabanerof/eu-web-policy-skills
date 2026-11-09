@@ -62,3 +62,17 @@ Combine it with e-commerce for actual sales or paid bookings.
 
 Keep a globally visible portfolio's actual markets and processing in the matrix.
 Apply sales terms only to the transactions the relevant party actually offers.
+
+## Restaurants and food sales
+
+- **Terms.** Classify menus, reservations, catering, takeaway, delivery and packaged sales per market.
+  Verify the operator and seller, reservation charges, mandatory food and allergen information, checkout and delivery conditions.
+  Verify local withdrawal exceptions and separate remedies for delivery or product problems.
+  Use the [EU food information regulation](https://eur-lex.europa.eu/eli/reg/2011/1169/oj) or [UK Food Standards Agency guidance](https://www.food.gov.uk/business-guidance/allergen-guidance-for-food-businesses) where applicable and check the relevant food authority in other markets.
+- **Privacy.** Verify the roles and flows between the restaurant or seller, reservation and ordering platforms, payment providers and delivery partners.
+  Check whether dietary notes trigger special legal conditions and verify access, retention and any transfer.
+- **Cookies.** Inventory maps, reservation and delivery widgets, and any hosted ordering flow.
+  Verify the behavior and available choice controls by domain and market.
+
+Combine this profile with e-commerce when the operator offers sales or paid bookings.
+Keep food safety claims and publication language specific to the product and market.
