@@ -18,18 +18,28 @@ Verify the current national rule and guidance for each applicable market at the 
   Distinguish tracker lifetime from retention of personal data and the duration of a stored consent choice.
   Link to the privacy notice where the associated processing is explained.
 
-## National starting points
+## European market checks
 
-- **Spain.** Check [LSSI Article 22(2)](https://www.boe.es/buscar/act.php?id=BOE-A-2002-13758) and the [AEPD cookie guide](https://www.aepd.es/guias/guia-cookies.pdf).
-  Where a consent banner is required, make accepting and rejecting equally easy and comparably visible on the first layer.
-  Verify the guide's recommendation on renewing consent within a maximum of 24 months and review sooner if the use changes.
-  For a claimed limited audience measurement exemption, check the conditions in the [AEPD audience measurement guide](https://www.aepd.es/guias/guia-cookies-analiticas-externas.pdf) against the actual setup.
-- **Germany.** Check [TDDDG §25](https://www.gesetze-im-internet.de/ttdsg/__25.html) and current guidance from the relevant federal or state authority.
-  Check the legal basis for subsequent personal-data processing separately.
-- **Other markets.** Verify the national transposition and applicable authority guidance.
-  Record differences in exemptions, first-layer choices, withdrawal, and renewal before using one implementation across markets.
+- **EU Member States.** Find the national ePrivacy rules through [N-Lex](https://n-lex.europa.eu/n-lex/index).
+  Consult the competent communications or data protection regulator for the actual rule on first-layer rejection, analytics exemptions, opt-in, renewal and withdrawal.
+  Use the [EDPB directory](https://www.edpb.europa.eu/about-edpb/our-members_en) to locate data protection authorities.
+- **Iceland, Liechtenstein and Norway.** Check [EEA incorporation and national implementation](https://www.efta.int/eealaw) of the relevant instrument and amendments.
+  Verify the local terminal-access rules and guidance in force, such as the [Norwegian communications regulator's cookie guidance](https://nkom.no/internett/informasjonskapsler-cookies) for Norway.
+- **United Kingdom.** Check [PECR Regulation 6](https://www.legislation.gov.uk/uksi/2003/2426/regulation/6) as amended, the relevant commencement dates, and the [ICO's storage and access guidance](https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guidance-on-the-use-of-storage-and-access-technologies/what-are-the-pecr-rules).
+  Verify the specific conditions of any exception, including information or objection controls where required.
+  Assess UK GDPR processing separately.
+- **Switzerland.** Check Article 45c of the Telecommunications Act, the [Federal Act on Data Protection](https://www.fedlex.admin.ch/eli/cc/2022/491/en), and the [FDPIC's cookie guidance](https://www.edoeb.admin.ch/en/guidelines-on-data-processing-using-cookies).
+  Determine when information, refusal or consent is required under the applicable Swiss rules and circumstances.
+- **Other European jurisdictions and territories.** Verify the local terminal-access, communications and data protection rules and the competent authorities.
+  The [jurisdiction guide](https://github.com/ecabanerof/eu-web-policy-skills/blob/main/JURISDICTIONS.md) lists national legislative gateways.
+  Classify each operation using the local requirements.
+
+Record differences in exemptions, first-layer choices, refusal, withdrawal and renewal before using one implementation across markets.
 
 ## Evidence to request
+
+Use these consent-state checks where prior consent applies.
+For a notice or refusal regime, check the required disclosure, available control and the observed effect of exercising it.
 
 | Consent state | Check on authorized local or staging evidence |
 | --- | --- |

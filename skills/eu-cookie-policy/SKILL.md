@@ -1,11 +1,11 @@
 ---
 name: eu-cookie-policy
-description: Draft or audit an EU cookie policy, cookie banner, or tracker inventory under national ePrivacy rules and the GDPR. Use for tags, consent managers, embedded media, pixels, local storage, and consent withdrawal.
+description: Draft or audit English-language cookie policies, banners, and tracker inventories for European markets. Use for device access rules, tags, consent managers, embedded media, pixels, local storage, and withdrawal or opt-out.
 ---
 
-# EU cookie policy
+# European cookie policy
 
-Read [ePrivacy, consent, and national sources](references/legal-basis.md) for the selected markets.
+Read [European device access, consent, and national sources](references/legal-basis.md) for the selected markets.
 For a draft or rewrite, assemble the [cookie notice, banner and preferences template](assets/cookies-template.md).
 
 ## Start with the site
@@ -28,19 +28,21 @@ For a review, begin with the supplied notice and controls.
    Distinguish external hyperlinks from embedded resources that load on-site, and enabled tags from dormant configurations.
    Assess any hosted checkout or account surface separately by domain, operator and consent control.
    Verify any claimed consent sharing between domains.
-3. Check the national implementation of ePrivacy Article 5(3) and the current local regulator guidance.
-   For each operation, document an applicable exemption or the consent trigger.
-   Apply GDPR rules separately to the associated personal-data processing.
+3. Check the device access or storage law and current regulator guidance in each relevant market.
+   Verify ePrivacy Article 5(3) and national implementation where applicable, and check UK PECR, Swiss law or another local regime separately.
+   For each operation, document the applicable consent, notice, opt-out or exemption requirements.
+   Apply the relevant data protection law separately to the associated personal-data processing.
    A CMP setting, tag name, or claim that an implementation is cookieless does not establish an exemption.
    Record network-only disclosures separately from terminal operations and assess their personal-data implications on their own facts.
 4. Compare the notice and banner with the implementation.
-   Check a fresh state, rejection, granular acceptance, full acceptance, and withdrawal using authorized local or staging evidence.
+   Check a fresh state and the rejection, acceptance, withdrawal or refusal controls that apply using authorized local or staging evidence.
+   Test granular choices where offered and record market-specific behavior separately.
    Include relevant routes, early page loads, embeds, and any data sent before consent.
    Check rejection visibility, granularity, and ease of withdrawal for the relevant markets.
    When runtime evidence is unavailable, record the missing observation and provide a test plan.
 5. Return the policy or text review, observed and unresolved inventory rows, separate implementation checks, and official sources with the date checked.
-   Use the user's language unless they request another.
-   Mark unresolved non-exempt behavior or a material incomplete inventory as **hold for verification**.
+   Write in plain English and flag a missing required local-language version as a publication blocker.
+   Mark unresolved device access rules, relevant behavior or a materially incomplete inventory as **hold for verification**.
    Keep unknown items and missing runtime checks outside the proposed public text.
-   Claim that a banner is unnecessary only when evidence across the relevant routes shows no covered operations or only exempt operations.
+   Claim that a banner is unnecessary only when the verified operations and the applicable market rules support that conclusion.
    Approval or publication is a separate action.

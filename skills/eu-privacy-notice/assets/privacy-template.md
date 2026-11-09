@@ -25,7 +25,8 @@ Add a separate entry for any further purpose such as newsletters, website securi
 Use the actual processing map to decide whether each activity exists and what basis applies.
 
 Add the applicable disclosures for required data, indirect collection, or decisions with legal or similarly significant effects.
-If data goes outside the EEA, identify the relevant countries or recipients and the applicable transfer mechanism and how safeguards can be obtained or consulted where required.
+Where a cross-border disclosure triggers a duty to inform, identify the relevant countries or recipients and the verified transfer mechanism.
+Explain how to access safeguards when the applicable regime requires it.
 
 ## Your choices and rights
 
@@ -35,8 +36,8 @@ For other rights, give a usable contact path.
 
 > You can lodge a complaint with a data protection authority, including in the EU country where you usually live, work or believe the infringement occurred.
 
-Use the complaint wording when the GDPR applies.
-Adapt the reference to the relevant jurisdiction, including the EEA where applicable, and verify any named authority.
+Use this example for an applicable EU or EEA GDPR notice and adapt the reference to the relevant authority and territory.
+For a UK, Swiss or other notice, use the verified local complaint rights and routes.
 
 ## Short notice at a collection point
 

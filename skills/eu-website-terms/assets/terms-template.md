@@ -1,6 +1,6 @@
 # Website terms drafting template
 
-Use the sample copy as a starting point in the reader's language.
+Use the sample copy as a starting point for a plain-English draft.
 Double braces mark values to replace with confirmed details.
 Keep a section only when the site offers the relevant feature or the applicable rules require the disclosure.
 Where a material value is unknown, list the gap outside the draft.

@@ -4,7 +4,7 @@ Baseline checked on 9 November 2026.
 For a new draft, open the current official texts and verify which version applies to the planned launch or contract date.
 Distinguish regulations, transposed directives, court decisions, and regulator guidance.
 
-## Choose the applicable rules
+## EU baseline
 
 | Question | Primary sources and practical checks |
 | --- | --- |
@@ -16,7 +16,7 @@ Distinguish regulations, transposed directives, court decisions, and regulator g
 | What dispute channel should be described? | [Regulation 2024/3228](https://eur-lex.europa.eu/eli/reg/2024/3228/oj) discontinued the EU ODR platform and repealed the old regulation from 20 July 2025. Verify current national ADR disclosure duties and participation before naming a body. |
 | Is the operator actually an intermediary or marketplace? | [Digital Services Act 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) and Consumer Rights Directive Article 6a. Check the intermediary role and specific exemptions before adding terms, moderation, or trader-disclosure duties. |
 
-## Implementation checks for online B2C
+## EU implementation checks for online B2C
 
 - Verify the trader, total cost including taxes and charges, payment interval, renewal, cancellation, fulfillment and complaint handling before the consumer commits.
 - Check that the checkout control explicitly signals an obligation to pay where Article 8(2) applies, and that applicable information is confirmed on a durable medium.
@@ -31,12 +31,19 @@ Distinguish regulations, transposed directives, court decisions, and regulator g
   Where applicable, verify ongoing access during the withdrawal period, the initiation and confirmation controls, and the acknowledgment on a durable medium.
   Keep statutory withdrawal distinct from cancellation of ongoing renewals.
 
-## National starting points
+## European market checks
 
-- **Spain.** Check [LSSI, Articles 10 and 27–28](https://www.boe.es/buscar/act.php?id=BOE-A-2002-13758) and [RDL 1/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555), especially Articles 80–91 and 97–108 for relevant consumer terms and distance contracts.
-  Check current official Spanish transposition and its effective date for the online withdrawal function before treating national implementation as settled.
-  Verify the applicable disclosure and complaint duties under [Law 7/2017, Article 40](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12659).
-- **Germany.** Start with [DDG §5](https://www.gesetze-im-internet.de/ddg/__5.html) for provider disclosures, the [BGB](https://www.gesetze-im-internet.de/bgb/) for contract, withdrawal and cancellation rules, and [EGBGB Article 246a](https://www.gesetze-im-internet.de/bgbeg/art_246a__1.html) for distance selling information.
-  Check the [BGB §356a electronic withdrawal function](https://www.gesetze-im-internet.de/bgb/__356a.html) and, separately where relevant, the [BGB §312k cancellation button](https://www.gesetze-im-internet.de/bgb/__312k.html).
-- **Other markets.** Find the current national legislation through the national gazette, the EU transposition record, and the consumer authority.
-  Confirm territorial and sector applicability before adopting a national clause.
+- **EU Member States.** Use [N-Lex](https://n-lex.europa.eu/n-lex/index) for national legislation and the [Commission's Consumer Rights Directive country notifications](https://commission.europa.eu/law/law-topic/consumer-protection-law/consumer-contract-law/consumer-rights-directive/regulatory-choices-under-article-29-crd_en) for clues about national choices.
+  Verify the published national law, including mandatory language, trader disclosure, withdrawal wording and forms, legal guarantees, and complaint or ADR duties.
+- **Iceland, Liechtenstein and Norway.** Check [EEA incorporation and national implementation](https://www.efta.int/eealaw) instrument by instrument, including adaptations and effective dates.
+  Use the applicable national law for seller disclosures, withdrawal forms, remedies and language requirements.
+  Verify the governing-law and forum rules separately before using EU clauses.
+- **United Kingdom.** Start with the [Consumer Contracts Regulations 2013](https://www.legislation.gov.uk/uksi/2013/3134/contents), [Consumer Rights Act 2015](https://www.legislation.gov.uk/ukpga/2015/15/contents), and [government distance-selling guidance](https://www.gov.uk/online-and-distance-selling-for-businesses).
+  Check territorial extent, current rules and [commencement of subscription rules](https://www.gov.uk/government/publications/subscription-contracts) for the actual contract date.
+  Where the trader targets consumers in the EU, elsewhere in the EEA or in other markets, assess the applicable protections separately.
+- **Switzerland.** Start with the [Federal SME Portal's e-commerce guidance](https://www.kmu.admin.ch/en/statutory-obligations-swiss-and-european-e-commerce-laws), then verify the applicable federal law on seller disclosure, electronic contracting, guarantees and return or withdrawal terms.
+  Check the actual offer and the destination market before drafting a return or withdrawal clause.
+- **Other European jurisdictions and territories.** Use the national gazette or official legislation portal and the local consumer authority.
+  The [jurisdiction guide](https://github.com/ecabanerof/eu-web-policy-skills/blob/main/JURISDICTIONS.md) lists national legislative gateways.
+  The [UNCTAD consumer protection map](https://unctad.org/topic/competition-and-consumer-protection/consumer-protection-map) can help locate institutions.
+  Verify trader disclosure, distance-contract rights, dispute routes and any mandatory language under the applicable local law.

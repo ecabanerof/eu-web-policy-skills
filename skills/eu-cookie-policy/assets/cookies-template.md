@@ -1,7 +1,7 @@
 # Cookie policy, banner and preferences drafting template
 
 Use the permanent notice for the operations observed or otherwise verified on the site.
-Add banner and preferences copy when non-exempt operations are offered or a choice mechanism is required.
+Add banner, preferences or opt-out copy when required by the applicable rules and actual operations.
 Replace double braces with facts and link to the real controls.
 Keep unverified providers, identifiers and behavior in the implementation notes.
 
@@ -29,10 +29,11 @@ State the duration of a stored consent choice separately from the lifetime of ea
 > Open {{cookie preferences link}} to change what you allow or withdraw your choices.
 
 Say what happens after withdrawal only if the behavior has been verified.
+Where a law requires a refusal or objection mechanism, describe the actual control and its verified effect.
 If the verified site uses only exempt operations, explain those operations and omit choices the user cannot exercise.
 If verification shows no covered operations, use a concise statement of that fact where useful.
 
-## First-layer banner
+## Prior-consent banner
 
 Use concise descriptions of the actual optional purposes.
 Show the choices required by the applicable country and authority guidance.
@@ -46,6 +47,14 @@ Example control labels where they fit the verified design.
 - Accept all
 - Reject all
 - Choose preferences
+
+## Notice and refusal
+
+Use this section where the applicable rules allow an operation subject to notice and a right to refuse.
+Provide the information and control at the time and place the rules require.
+
+> We use {{technology}} to {{specific purpose}}.
+> To refuse this use, open {{actual refusal control}}.
 
 ## Preferences panel
 
