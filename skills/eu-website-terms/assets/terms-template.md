@@ -40,14 +40,29 @@ For recurring plans, also give the billing interval, duration, renewal, trial co
 Use the actual purchase and confirmation flow as evidence.
 Distinguish mandatory information shown before an order from what the terms or confirmation supply.
 
-## Withdrawal, cancellation and problems with a purchase
+## Right of withdrawal
 
-Use the relevant sections only after identifying the buyer type, product and national rules.
-Explain any applicable statutory withdrawal period and start event, the way to exercise the right, and verified refund or return arrangements.
-Use the official model withdrawal form for the market where required.
-Provide an online withdrawal path only where it exists and check whether it is legally required.
+Use this section for the consumer contracts covered by the applicable law.
+Identify the covered purchases, the exact period and what starts it, and the verified seller and contact channels.
+Provide the official model form where required and explain any other ways to exercise the right.
+Check whether an online withdrawal function is required and verify its actual location and operation.
+Explain the applicable return process, any lawful return costs, and the reimbursement deadline and method.
+Where an exception applies, identify the relevant products or services and explain the conditions.
+
+Example for a purchase with a verified right of withdrawal.
+
+> For {{covered purchase}}, you can withdraw within {{verified period}} from {{verified start event}} without giving a reason.
+> Send a clear statement of your decision to {{seller and verified contact details}}.
+
+Add the verified procedure, form and reimbursement details to the example before using it.
+Flag any missing legal information or required control separately as a publication blocker.
+
+## Returns, cancellation and purchase problems
+
+Describe any voluntary return or exchange offer as a separate policy.
 Explain subscription cancellation separately, including when access and billing actually end.
-Describe applicable conformity remedies and how to report a problem without limiting statutory rights.
+Describe remedies for faulty, incorrect or late orders and how to report a problem.
+Preserve applicable statutory rights across all sections.
 
 ## Changes and complaints
 

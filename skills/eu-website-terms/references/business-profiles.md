@@ -50,6 +50,17 @@ Example for goods dispatched by a verified seller.
 > {{Seller}} accepts and fulfils your order.
 > Before you place it, the checkout shows the total price, delivery charge and available delivery options.
 
+### Right of withdrawal
+
+Check the seller, consumer status, destination market and contract type before selecting the [right-of-withdrawal clause](../assets/terms-template.md#right-of-withdrawal).
+For applicable EU distance sales, the usual period is 14 calendar days, generally from receipt for goods and from conclusion for services.
+Check the specific start event for split deliveries, recurring supplies and digital content, and verify the national rules on deadlines and missing disclosures.
+Use [Your Europe's withdrawal guide](https://europa.eu/youreurope/citizens/consumers/shopping/returns/index_en.htm) as a starting point and verify the applicable law in [legal-basis.md](legal-basis.md).
+Check each exception against the actual offer and flow, including perishable goods and digital content supplied immediately.
+Verify the required disclosures before purchase and in the confirmation, the official model form where required, and any applicable online withdrawal function.
+Under the EU baseline, explain that the consumer can use the model form or another clear statement of withdrawal.
+Keep statutory withdrawal, voluntary returns, subscription cancellation and remedies for a problem with the purchase in separate sections.
+
 ## Creative and professional sites
 
 Use this profile for artists, musicians, photographers, studios and independent professionals.

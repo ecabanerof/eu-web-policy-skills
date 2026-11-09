@@ -37,6 +37,8 @@ Put any unresolved training claim or transfer mechanism on hold for the affected
 
 - **Terms.** Identify the seller, platform and checkout operator per market and offer.
   Verify disclosures, price and currency, delivery, fulfilment, cancellation or withdrawal, refunds, guarantees and complaints for the goods, services or digital content actually sold.
+  Where a statutory withdrawal right applies, add a separate section with the local period, start event, procedure, exceptions and any required form or online function.
+  Keep statutory withdrawal separate from voluntary returns, subscription cancellation and remedies for delivery or product problems.
 - **Privacy.** Map customer and guest checkout, payments, fraud prevention, order fulfilment, returns, marketing and advertising by purpose and entity.
   Verify what payment details the seller can access, what goes to processors or independent recipients, and the retention and transfers for each flow.
 - **Cookies.** Inventory product pages, cart, hosted checkout, redirects and confirmation.

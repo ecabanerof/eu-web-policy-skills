@@ -18,6 +18,11 @@ For each actual sales flow, give the verified price and charges, delivery or per
 Add the applicable local consumer rights, statutory forms and mandatory wording in the relevant version.
 Keep any voluntary return offer distinct from statutory rights.
 
+### Right of withdrawal
+
+For each market where this right applies, explain the covered purchases, period and start event, how to notify the seller, any required form or online function, and the applicable exceptions and reimbursement arrangements.
+Keep subscription cancellation, voluntary returns and remedies for problems with an order in separate sections.
+
 ## Shared privacy policy
 
 {{Entity or verified entity list}} handles the personal information described here.
