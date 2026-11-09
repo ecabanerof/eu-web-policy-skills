@@ -7,6 +7,8 @@ description: Draft or audit English-language cookie policies, banners, and track
 
 Read [European device access, consent, and national sources](references/legal-basis.md) for the selected markets.
 For a draft or rewrite, assemble the [cookie notice, banner and preferences template](assets/cookies-template.md).
+Use the matching [business profiles](references/business-profiles.md) for SaaS, AI services or e-commerce.
+Combine profiles and inventory each operation by route and purpose.
 
 ## Start with the site
 

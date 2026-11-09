@@ -58,6 +58,22 @@ For a cross-region site, use `global-web-policies` and say where you sell or ope
 > We sell through different group companies and use one analytics setup.
 > Help us identify what can be shared and what needs its own market section.
 
+## Choose a business profile
+
+Add the profiles that describe the site's actual features.
+For example, combine SaaS and AI services for a paid workspace with an AI assistant, and add e-commerce if the site also runs a storefront or checkout.
+The profiles help the agent ask focused questions and add only the clauses and notices that fit.
+
+| Business profile | Terms and conditions | Privacy policy | Cookie policy | Global sites |
+| --- | --- | --- | --- | --- |
+| SaaS | [Plans, renewals, cancellation and export](skills/eu-website-terms/references/business-profiles.md#saas) | [Accounts, workspaces and data roles](skills/eu-privacy-notice/references/business-profiles.md#saas) | [Sign-in, sessions and product analytics](skills/eu-cookie-policy/references/business-profiles.md#saas) | [Market-specific SaaS checks](skills/global-web-policies/references/business-profiles.md#saas) |
+| AI services | [Inputs, outputs, permitted uses and disclosures](skills/eu-website-terms/references/business-profiles.md#ai-services) | [Prompts, vendors, retention and model improvement](skills/eu-privacy-notice/references/business-profiles.md#ai-services) | [Chat widgets, SDKs and device access](skills/eu-cookie-policy/references/business-profiles.md#ai-services) | [Market-specific AI checks](skills/global-web-policies/references/business-profiles.md#ai-services) |
+| E-commerce | [Seller, checkout, delivery and returns](skills/eu-website-terms/references/business-profiles.md#e-commerce) | [Orders, payments, fulfilment and marketing](skills/eu-privacy-notice/references/business-profiles.md#e-commerce) | [Cart, checkout, advertising and embeds](skills/eu-cookie-policy/references/business-profiles.md#e-commerce) | [Market-specific e-commerce checks](skills/global-web-policies/references/business-profiles.md#e-commerce) |
+
+> Draft an English privacy policy for our SaaS with an AI assistant.
+> We have account and billing data, users can attach files to chats, and our model provider processes the requests.
+> Show which sections can be drafted now and which facts about storage, training and transfers we need to confirm.
+
 ## Drafting templates
 
 - [Terms and conditions](skills/eu-website-terms/assets/terms-template.md)

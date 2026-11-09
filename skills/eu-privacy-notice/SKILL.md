@@ -7,6 +7,8 @@ description: Draft or audit an English-language website privacy policy for Europ
 
 Read [European privacy and national sources](references/legal-basis.md) before deciding what the notice needs.
 For a draft or rewrite, use the [privacy policy and short notice template](assets/privacy-template.md).
+Use the matching [business profiles](references/business-profiles.md) for SaaS, AI services or e-commerce.
+Combine profiles by actual processing purpose and reuse shared facts.
 
 ## Start with the site
 
