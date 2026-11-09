@@ -1,16 +1,24 @@
-# European Web Policy Skills
+# Web Policy Skills
 
-Three independent, English-language agent skills for drafting and reviewing website terms, privacy policies, and cookie policies across Europe.
+English-language agent skills for drafting and reviewing website terms, privacy policies, and cookie policies for European and global sites.
 Start with the operator's establishment, the markets the site serves, and what the site actually does.
-The skills verify EU and national rules across all 27 EU Member States, check incorporation and local rules in Iceland, Liechtenstein and Norway, and use separate legal starting points for the United Kingdom and Switzerland.
-For other European markets and territories, they research the applicable local law and regulator before treating a draft as ready for review.
-Use the [jurisdiction guide](JURISDICTIONS.md) to find official starting points.
+Use a European document skill for a focused draft or review in Europe.
+Use the global skill to coordinate policies across world regions or multinational operations.
 
 | Skill | Use it for |
 | --- | --- |
 | [eu-website-terms](skills/eu-website-terms/SKILL.md) | Website terms, trader disclosures, and terms for B2C or B2B transactions |
 | [eu-privacy-notice](skills/eu-privacy-notice/SKILL.md) | Privacy notices and a purpose-by-purpose review of processing under the applicable regime |
 | [eu-cookie-policy](skills/eu-cookie-policy/SKILL.md) | Cookie and tracker inventories, consent behavior, and notice text |
+| [global-web-policies](skills/global-web-policies/SKILL.md) | Shared policies and market addenda for companies operating or serving customers across world regions |
+
+## Choose your scope
+
+- **Europe.** The European skills research national rules for all EU Member States, check EEA incorporation and local rules in Iceland, Liechtenstein and Norway, and use separate starting points for the United Kingdom and Switzerland.
+  For other European markets and territories, use the [European jurisdiction guide](JURISDICTIONS.md) to find official sources.
+- **Global.** The global skill maps where the site operates, sells or processes data, identifies the relevant entities, and separates shared copy from market-specific requirements.
+  It uses [official market sources](skills/global-web-policies/references/market-sources.md) and verifies the current law in every market it treats as covered.
+  Worldwide availability is one fact to consider alongside actual targeting, sales, establishment and monitoring.
 
 ## Install and use
 
@@ -42,14 +50,20 @@ Provide redacted policies, inventories or configuration evidence when available.
 If you already have pages, ask for a review to see what to keep, change or verify.
 
 For all three documents, share the site facts once and expect one group of up to five initial questions.
-Start with `eu-website-terms` for the business model, then reconcile the data and tracker inventory with `eu-privacy-notice` and `eu-cookie-policy`.
-Run each skill independently when you need one document.
+For Europe-only work, start with `eu-website-terms` for the business model, then reconcile the data and tracker inventory with `eu-privacy-notice` and `eu-cookie-policy`.
+For a cross-region site, use `global-web-policies` and say where you sell or operate, which legal entities are involved and what choices users currently have.
+
+> Draft our website terms, privacy policy and cookie policy.
+> Our site serves customers in the United States, the European Union and Australia.
+> We sell through different group companies and use one analytics setup.
+> Help us identify what can be shared and what needs its own market section.
 
 ## Drafting templates
 
 - [Terms and conditions](skills/eu-website-terms/assets/terms-template.md)
 - [Privacy policy and short notices](skills/eu-privacy-notice/assets/privacy-template.md)
 - [Cookie policy, banner and preferences](skills/eu-cookie-policy/assets/cookies-template.md)
+- [Global policy pack, market addenda and handover matrix](skills/global-web-policies/assets/policy-pack-template.md)
 
 The templates use conditional sections and fictional or generic examples.
 The skills assemble only the sections that fit your site and keep research notes and unresolved facts separate from the proposed public text.
