@@ -7,7 +7,7 @@ description: Draft or audit English-language website terms and consumer or busin
 
 Read [European and national sources](references/legal-basis.md) for the selected markets and business model.
 For a draft or rewrite, assemble the relevant sections from the [terms template](assets/terms-template.md).
-Use the matching [business profiles](references/business-profiles.md) for SaaS, AI services or e-commerce.
+Use the matching [business profiles](references/business-profiles.md) for SaaS, AI services, e-commerce, or creative and professional sites.
 Combine profiles when the site has features from more than one.
 
 ## Start with the site

@@ -45,3 +45,20 @@ Put any unresolved training claim or transfer mechanism on hold for the affected
   Check prior consent, refusal, advertising opt-out or browser preference signals where applicable in each market and verify what happens across domains.
 
 Keep seller and controller identities, local rights, price disclosures and choice controls consistent with the actual offer and jurisdiction.
+
+## Creative and professional sites
+
+Use this profile for artists, musicians, photographers, studios and independent professionals.
+Combine it with e-commerce for actual sales or paid bookings.
+
+- **Terms.** Separate public portfolio and press use, project enquiries, binding bookings and event ticket sales.
+  Verify who owns or can license the work, who contracts, who organises an event and who sells tickets.
+  Check local trader or professional disclosures and the applicable rules for deposits, cancellations and consumer rights.
+- **Privacy.** Map enquiries, booking and press contacts, mailing lists, galleries and identifiable media by purpose and responsible entity.
+  Separate client delivery, public portfolio use and promotion.
+  Verify local image or release rules alongside the applicable data protection basis and check gallery access, hosting, transfers and retention.
+- **Cookies.** Distinguish direct external links from embedded players, feeds, gallery tools, schedulers and ticket or payment widgets.
+  Inventory what loads on first visit and on activation, and verify the choice or refusal controls on each relevant domain and market.
+
+Keep a globally visible portfolio's actual markets and processing in the matrix.
+Apply sales terms only to the transactions the relevant party actually offers.

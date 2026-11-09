@@ -51,3 +51,26 @@ Map retention by purpose and put a short notice at collection where required.
 Example for verified delivery processing.
 
 > We use the delivery details you provide to fulfil your order and send the necessary address information to {{carrier or carrier category}}.
+
+## Creative and professional sites
+
+Use this profile for public portfolios, music and event sites, photography galleries and professional services.
+Map only the actual flows and distinguish the operator's website activities from processing by organisers, ticket sellers, clients and other providers.
+
+**Contact, press and bookings.** Identify form fields, recipients, booking or email services, purposes and retention.
+Separate project enquiries, confirmed work, mailing lists and promotion.
+Provide a short notice at collection where required and verify what is sent to any external booking or ticket service.
+
+**Identifiable media and client galleries.** Check who appears in images, recordings or videos and who decides how they are used.
+Map service delivery, private galleries, publication and promotion as distinct purposes where relevant.
+Verify the applicable data protection basis and any local image, publicity or release requirements separately from copyright and client permissions.
+Where relevant, check rules for children's data, biometric identification or artistic and journalistic expression under the applicable law.
+For the GDPR, consult Articles 4, 6, 9 and 85 and Recital 51 in the [official text](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng/).
+
+**Gallery evidence.** Verify who can access, share or download material, what the gallery provider receives, hosting and transfers, and when access and stored copies expire.
+Use accurate access and retention statements in the notice.
+
+Example for a verified photography enquiry.
+
+> We use the details you send through the enquiry form to respond and discuss the work you are requesting.
+> {{Verified legal grounds, recipients and retention for this purpose}}.

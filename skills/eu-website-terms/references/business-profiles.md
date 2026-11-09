@@ -49,3 +49,28 @@ Example for goods dispatched by a verified seller.
 
 > {{Seller}} accepts and fulfils your order.
 > Before you place it, the checkout shows the total price, delivery charge and available delivery options.
+
+## Creative and professional sites
+
+Use this profile for artists, musicians, photographers, studios and independent professionals.
+Identify whether the site shows work, takes enquiries, confirms bookings, distributes media or sells goods, services or tickets.
+
+**Portfolio, press and media.** Draft brief site-use terms and the operator details the market requires.
+Check permissions and credits for displayed work, client images and press downloads.
+Describe any licence for downloading, reproducing or sharing material only after verifying its scope and who can grant it.
+Check any profession-specific identification or disclosures where relevant.
+
+**Enquiries and bookings.** Establish when an enquiry, quote or reservation becomes a contract.
+Verify who accepts bookings, how the price or deposit is presented, and which rescheduling, cancellation, refund and statutory rights apply.
+Add the e-commerce profile for sales or paid bookings offered by the operator, including through an embedded or hosted checkout.
+
+**Events and tickets.** Establish who organises the event, who sells or intermediates and who handles changes and refunds.
+Describe the role of an external ticket link or checkout accurately.
+Verify the operator's role before classifying an external link as its sale.
+For an EU consumer contract, verify the actual event and seller before applying a fixed-date leisure exception.
+For intermediary sales, identify the party the intermediary acts for and who bears the risk of capacity freed by withdrawal under [CJEU case C-96/21](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A62021CJ0096).
+
+Example for a verified enquiry-only form.
+
+> Use this form to ask about availability and tell us about your project.
+> A booking is confirmed through {{verified confirmation process}}.

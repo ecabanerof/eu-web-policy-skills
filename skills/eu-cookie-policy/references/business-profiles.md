@@ -42,3 +42,26 @@ Example inventory row structure for a verified cart mechanism.
 | Identifier | Provider | Purpose | Lifetime | Trigger and choice |
 | --- | --- | --- | --- | --- |
 | {{observed identifier}} | {{verified provider}} | Keeps the products you add in your cart | {{verified lifetime}} | {{observed trigger and applicable choice}} |
+
+## Creative and professional sites
+
+Use this profile for portfolios, press pages, artist and event sites, client galleries and professional booking pages.
+Inventory the relevant surfaces before drafting a single notice.
+
+**Public media.** Distinguish direct links from embedded music or video players, maps and social feeds.
+Record what loads on page view and when a visitor chooses to load a feature.
+Verify device access, network disclosures and any required choice even when the provider offers a privacy-focused mode.
+
+**Galleries and bookings.** Check private gallery sign-in and access, analytics, external schedulers, ticket widgets and hosted payment routes.
+Distinguish the actions needed for a requested service from optional measurement or advertising.
+Identify the operator and controls on each relevant domain.
+
+**Draft and verify.** Describe active technologies and applicable controls with verified purposes and lifetimes.
+Check first visit, rejection or refusal where offered, activating an embed, and later withdrawal where applicable.
+Explain how to change choices using the control that actually exists.
+Use the e-commerce profile for payments the operator offers through its own, embedded or hosted checkout.
+
+Example for a verified click-to-load player.
+
+> The {{provider}} player loads when you select {{actual control}}.
+> {{Verified description of the operation, its purpose and how to change your choice}}.

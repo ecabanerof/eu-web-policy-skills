@@ -11,7 +11,7 @@ This skill can work independently.
 
 Read [official market sources](references/market-sources.md) for the selected markets.
 For drafting, assemble only the relevant sections of the [policy pack template](assets/policy-pack-template.md).
-Use the matching [business profiles](references/business-profiles.md) for SaaS, AI services or e-commerce.
+Use the matching [business profiles](references/business-profiles.md) for SaaS, AI services, e-commerce, or creative and professional sites.
 Combine profiles in one market matrix when features overlap.
 
 ## Start with the business
