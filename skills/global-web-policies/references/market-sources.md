@@ -18,16 +18,14 @@ Use an official translation where available and verify the authoritative text wh
 ## Europe
 
 - Use the [European jurisdiction guide](https://github.com/ecabanerof/eu-web-policy-skills/blob/main/JURISDICTIONS.md) to distinguish EU Member States, the EEA, the United Kingdom, Switzerland and other European markets.
+  For the EU, the EEA, the United Kingdom and Switzerland, use the applicable [terms](https://github.com/ecabanerof/eu-web-policy-skills/blob/main/skills/eu-website-terms/references/legal-basis.md), [privacy](https://github.com/ecabanerof/eu-web-policy-skills/blob/main/skills/eu-privacy-notice/references/legal-basis.md) and [cookie](https://github.com/ecabanerof/eu-web-policy-skills/blob/main/skills/eu-cookie-policy/references/legal-basis.md) references.
   Check consumer and privacy rules independently when the site serves customers or monitors users outside the operator's establishment.
   For EU GDPR scope and transfers, use the [EDPB territorial scope guidance](https://www.edpb.europa.eu/documents/guideline/guidelines-32018-on-the-territorial-scope-of-the-gdpr-article-3-version-adopted_en) and the [European Commission's adequacy decisions](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).
   Verify language and implementation requirements in each target market.
 
 ## Americas
 
-- **United States.** Start with the [U.S. Code](https://www.govinfo.gov/app/collection/USCODE) for relevant federal and sector rules and the [USAGov state consumer office directory](https://www.usa.gov/state-consumer) for state research.
-  Where online recurring billing is relevant, verify [15 U.S.C. § 8403](https://www.govinfo.gov/link/uscode/15/8403), current federal rule status and state renewal and cancellation requirements.
-  For California, check the [CPPA statutes and regulations](https://cppa.ca.gov/regulations/) and [CPPA rights and Global Privacy Control guidance](https://cppa.ca.gov/faq).
-  Verify state applicability and thresholds, notice and rights requirements, and whether the site's actual advertising or data disclosures trigger opt-outs.
+- **United States.** Open the [United States guide](united-states.md) for federal rules, California and New York starting points, and the process for verifying other states.
 - **Canada.** Check the [Office of the Privacy Commissioner's overview of federal and provincial privacy laws](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15) and [Office of Consumer Affairs online shopping guidance](https://ised-isde.canada.ca/site/office-consumer-affairs/en/connected-consumer/online-shopping).
   Check the applicable province, the scope of federal law and any direct marketing and language requirements.
 - **Brazil.** Check the current [General Personal Data Protection Law](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), [ANPD cookie guidance](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia-orientativo-cookies-e-protecao-de-dados-pessoais.pdf) and [e-commerce Decree 7,962](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm).

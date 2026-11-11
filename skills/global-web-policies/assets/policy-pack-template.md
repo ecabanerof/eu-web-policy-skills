@@ -62,6 +62,8 @@ Link to it from the relevant offer, collection point or choice interface when re
 ## Internal handover
 
 Keep this table with the working materials.
+Record the documents requested and the requested, verified and pending markets.
+Include any state, province or territory needed to explain the scope.
 Record one row per decision where market rules differ or a material claim needs verification.
 
 | Market and activity | Entity | Applicability and reason | Rule and effective date | Public section | Implementation and evidence | Responsible team | Publication readiness |

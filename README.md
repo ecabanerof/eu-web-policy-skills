@@ -1,24 +1,38 @@
 # Web Policy Skills
 
-English-language agent skills for drafting and reviewing website terms, privacy policies, and cookie policies for European and global sites.
+English-language agent skills for drafting and reviewing website terms, privacy policies, and cookie policies for one or more markets.
 Start with the operator's establishment, the markets the site serves, and what the site actually does.
 Use a European document skill for a focused draft or review in Europe.
-Use the global skill to coordinate policies across world regions or multinational operations.
+Use the global skill for a single market outside Europe, a multi-market site, or a single entry point for all requested documents.
 
 | Skill | Use it for |
 | --- | --- |
 | [eu-website-terms](skills/eu-website-terms/SKILL.md) | Website terms, trader disclosures, and terms for B2C or B2B transactions |
 | [eu-privacy-notice](skills/eu-privacy-notice/SKILL.md) | Privacy notices and a purpose-by-purpose review of processing under the applicable regime |
 | [eu-cookie-policy](skills/eu-cookie-policy/SKILL.md) | Cookie and tracker inventories, consent behavior, and notice text |
-| [global-web-policies](skills/global-web-policies/SKILL.md) | Shared policies and market addenda for companies operating or serving customers across world regions |
+| [global-web-policies](skills/global-web-policies/SKILL.md) | Choose one or more markets worldwide and draft the requested policies |
 
 ## Choose your scope
 
-- **Europe.** The European skills research national rules for all EU Member States, check EEA incorporation and local rules in Iceland, Liechtenstein and Norway, and use separate starting points for the United Kingdom and Switzerland.
-  For other European markets and territories, use the [European jurisdiction guide](JURISDICTIONS.md) to find official sources.
-- **Global.** The global skill maps where the site operates, sells or processes data, identifies the relevant entities, and separates shared copy from market-specific requirements.
-  It uses [official market sources](skills/global-web-policies/references/market-sources.md) and verifies the current law in every market it treats as covered.
-  Worldwide availability is one fact to consider alongside actual targeting, sales, establishment and monitoring.
+Name the markets you want reviewed and which documents you want drafted or audited.
+You can select one country, several markets or a worldwide review, and any combination of terms and conditions, privacy policy and cookie policy.
+For a market with subnational rules, name the states, provinces or territories you want included.
+
+| Market selection | Where the skill starts |
+| --- | --- |
+| EU or EEA | EU rules and the applicable national laws of the selected Member States and EEA countries |
+| United Kingdom, Switzerland or another European market | The separate local regimes and authorities in the [European jurisdiction guide](JURISDICTIONS.md) |
+| United States | Federal and state rules, with [specific starting points for California and New York](skills/global-web-policies/references/united-states.md) |
+| Any other country | The [official market sources](skills/global-web-policies/references/market-sources.md) and research into the current law of the named market |
+| Multiple markets or worldwide | An applicability map and shared text with local sections for verified differences |
+
+> Use global-web-policies to draft just the privacy policy and cookie policy for our US store.
+> We sell to customers in California and New York.
+> Our storefront uses analytics and a hosted checkout.
+
+The skill uses your selection to define the work, then checks which rules apply to the actual site, operator and audience.
+If you ask for a worldwide review, give the countries you serve or launch first so the skill can prioritise them.
+The handover identifies what it verified and which markets or decisions still need evidence.
 
 ## Install and use
 
@@ -51,7 +65,7 @@ If you already have pages, ask for a review to see what to keep, change or verif
 
 For all three documents, share the site facts once and expect one group of up to five initial questions.
 For Europe-only work, start with `eu-website-terms` for the business model, then reconcile the data and tracker inventory with `eu-privacy-notice` and `eu-cookie-policy`.
-For a cross-region site, use `global-web-policies` and say where you sell or operate, which legal entities are involved and what choices users currently have.
+For any other single market or a cross-region site, use `global-web-policies` and say where you sell or operate, which legal entities are involved and what choices users currently have.
 
 > Draft our website terms, privacy policy and cookie policy.
 > Our site serves customers in the United States, the European Union and Australia.
